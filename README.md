@@ -1,8 +1,6 @@
 # weather-appp
 
-#Overview
-
-The **Weather Application** is a web-based project developed using **HTML, CSS, and JavaScript**. It provides real-time weather information for user-specified locations by integrating a third-party **Weather API**. The application is designed with a clean user interface and delivers accurate weather data efficiently.
+The **Weather Application** is a web-based project developed using **HTML, CSS, and JavaScript**. It provides real-time weather information for user-specified locations by integrating a third-party Weather API. The application is designed with a clean user interface and delivers accurate weather data efficiently.
 
 # Features
 
@@ -16,19 +14,6 @@ The **Weather Application** is a web-based project developed using **HTML, CSS, 
 * CSS – Styling and responsive layout
 * JavaScript – Application logic and API integration
 * Weather API – Fetching live weather data (e.g., OpenWeatherMap API)
-
-
-# Project Structure
-
-```
-weather-app/
-│
-├── index.html      # Main HTML file
-├── style.css       # Styling file
-├── script.js       # JavaScript logic and API handling
-└── README.md       # Project documentation
-```
-
 
 # How It Works
 
